@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "青春コンプレックス",
   "base_artist": "結束バンド",
-  "createdAt": "2025-12-20T08:07:41.829716Z",
+  "createdAt": "2026-03-25T19:12:37.605841Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,24 @@
       "artist": "結束バンド",
       "has_synced": false,
       "path": "select/pl_01_青春コンプレックス_結束バンド.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "青春コンプレックス",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/localdb_01_青春コンプレックス_結束バンド.lrc",
+      "repo_name": "onCGgj9styU"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "青春コンプレックス",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/localdb_02_青春コンプレックス_結束バンド.lrc",
+      "repo_name": "Yd8kUoB72xU"
     }
   ]
 }
